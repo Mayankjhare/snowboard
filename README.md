@@ -26,6 +26,20 @@ A responsive front-end e-commerce collection page showcasing snowboard products.
 
 ## 🌟 Functionality
 
+🔄 Load products from API on button click
+
+📊 Sort products by price (Low to High, High to Low)
+
+🔢 Dynamic product count display
+
+✨ Smooth staggered animations for product cards
+
+📱 Responsive design (desktop and mobile)
+
+🔁 "Load" button hides after loading, reappears on page refresh
+
+
+
 - Products are fetched from:
 - https://interveiw-mock-api.vercel.app/api/getProducts
   
