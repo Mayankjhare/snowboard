@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0" />
+    <title>Snowboard Collection</title>
+    <link
+      rel="stylesheet"
+      href="style.css" />
+  </head>
+  <body>
+    <div>
+      <div class="container">
+        <img
+          src="img.jpg"
+          alt="" />
+
+        <div class="nav">
+          <div class="pr">
+            <div class="pc">0 Products</div>
+
+            <select id="sort">
+              <option value="">Sort By</option>
+              <option value="asc">Price: Low to High</option>
+              <option value="desc">Price: High to Low</option>
+            </select>
+          </div>
+        </div>
+      </div>
+
+      <button id="btn">Load Products</button>
+
+      <div
+        class="p-grid"
+        id="productGrid"></div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
