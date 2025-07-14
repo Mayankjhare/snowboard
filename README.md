@@ -8,6 +8,9 @@ Project Structure
 
 
 A responsive front-end e-commerce collection page showcasing snowboard products. Users can load products dynamically, sort them by price, and experience smooth animations.
+## 🔗 Live Demo
+
+👉 [**Click here to view live demo**](https://mayankjhare.github.io/snowboard/)
 
 ## 🚀 Features
 
@@ -22,7 +25,7 @@ A responsive front-end e-commerce collection page showcasing snowboard products.
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript
 
 ## 🌟 Functionality
 
@@ -42,5 +45,8 @@ A responsive front-end e-commerce collection page showcasing snowboard products.
 
 - Products are fetched from:
 - https://interveiw-mock-api.vercel.app/api/getProducts
-  
+
+  ## 👤 Author
+
+- **Mayank Jhare** — [GitHub](https://github.com/mayankjhare) • [LinkedIn](https://linkedin.com/in/mayank-jharehar20)
 
